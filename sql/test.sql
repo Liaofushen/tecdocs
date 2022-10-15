@@ -1,0 +1,1 @@
+select * from t_test where 1=1;
